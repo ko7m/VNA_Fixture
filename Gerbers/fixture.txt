@@ -1,0 +1,39 @@
+
+
+   ---- Transcoding 'F:\OneDrive\Mesh\Ham Radio\VNWA\Fixture\Gerbers\fixture.GTS' ----   Mon Oct 27 14:47:08 2014
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'F:\OneDrive\Mesh\Ham Radio\VNWA\Fixture\Gerbers\fixture.GTL' ----   Mon Oct 27 14:47:08 2014
+
+D10   --> D105
+D11   --> D106
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'F:\OneDrive\Mesh\Ham Radio\VNWA\Fixture\Gerbers\fixture.GBL' ----   Mon Oct 27 14:47:08 2014
+
+D10   --> D111
+D11   --> D112
+D12   --> D113
+D13   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'F:\OneDrive\Mesh\Ham Radio\VNWA\Fixture\Gerbers\fixture.GBS' ----   Mon Oct 27 14:47:08 2014
+
+D10   --> D115
+D11   --> D116
+D12   --> D117
+D13   --> D118
+-----------------------------------------------------------------
